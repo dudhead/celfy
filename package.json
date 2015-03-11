@@ -1,0 +1,16 @@
+{
+  "name": "nodelogin",
+  "version": "0.0.0",
+  "description": "Login",
+  "main": "server.js",
+  "repository": "",
+  "author": "Hari",
+  "dependencies": {
+    "express": "~3.2.4",
+    "mongoose": "~3.8.15",
+    "crypto": "0.0.3",
+    "csprng" : "~0.1.1",
+    "nodemailer":"~0.6.3",
+    "connect": "2.x"
+  }
+}
